@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Paweł 
+
+👀 I'm interested in .NET, Angular and React.js
 
 <!--
 **pawelpepek/pawelpepek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
